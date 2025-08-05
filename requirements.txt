@@ -1,0 +1,14 @@
+streamlit
+shap
+scikit-learn
+pandas
+matplotlib
+seaborn
+evidently
+fairlearn
+aif360
+transformers
+sentencepiece
+plotly
+sqlite3
+streamlit_authenticator
