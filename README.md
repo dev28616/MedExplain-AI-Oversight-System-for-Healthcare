@@ -111,10 +111,4 @@ We welcome contributions! Feel free to:
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 Built with ❤️ for responsible AI in healthcare.
